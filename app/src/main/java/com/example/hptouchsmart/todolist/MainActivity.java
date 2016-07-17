@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
         adapter = new databaseAdapter(list);
         tasksInDatabase();
         listView.setAdapter(adapter);
+        // this is archit 
 
 
 
